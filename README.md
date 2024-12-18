@@ -1,2 +1,2 @@
 # GradosuperiorDAM
-Programacion
+Programacion primer curso de Desarrollo de aplicaciones multiplataforma
